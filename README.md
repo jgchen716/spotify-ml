@@ -1,3 +1,3 @@
 Read Me
 
-This project used ML models to the Spotify million playlist dataset found [here](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge).
+This project trained ML models on data gathered from the Spotify million playlist dataset, which can be found [here](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge).
